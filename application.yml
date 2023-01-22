@@ -1,6 +1,4 @@
-spring: 
-  application: 
-    name: Config-default
+
 #microservice configuration eureka client
 eureka:
   instance:
